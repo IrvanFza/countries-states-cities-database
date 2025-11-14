@@ -24475,24 +24475,27 @@
     <timezone>Asia/Phnom_Penh</timezone>
     <translations>
       <br>Banteay Meanchey</br>
-      <ko>반테이 민체이</ko>
+      <ko>반테아이메안체이주</ko>
       <pt-BR>Banteay Meanchey</pt-BR>
       <pt>Banteay Meanchey</pt>
       <nl>Banteay Meanchey</nl>
       <hr>Banteay Meanchey</hr>
       <fa>بانتای میانچی</fa>
       <de>Banteay Meanchey</de>
-      <es>Banteay Meanchey</es>
-      <fr>Banteay Meanchey</fr>
-      <ja>バンテアイ・ミアンチェイ</ja>
-      <it>Banteay Meanchey</it>
+      <es>Provincia de Banteay Mean Chey</es>
+      <fr>Province de Banteay Mean Chey</fr>
+      <ja>バンテイメンチェイ州</ja>
+      <it>Provincia di Banteay Meanchey</it>
       <zh-CN>班蒂棉吉</zh-CN>
       <tr>Banteay Meanchey</tr>
-      <ru>Бантеймеанчей</ru>
+      <ru>Бантеймеантьей</ru>
       <uk>Бантей-Міанчей</uk>
-      <pl>Banteay Meanchey</pl>
-      <hi>बंतेय मीनचे</hi>
-      <ar>بانتياي مينشي</ar>
+      <pl>Bântéay Méanchey</pl>
+      <hi>बांतिय मियनचिय प्रान्त</hi>
+      <ar>محافظة بانتياي مينتشي</ar>
+      <id>Provinsi Banteay Meanchey</id>
+      <vi>Banteay Meanchey</vi>
+      <zh>班迭棉吉省</zh>
     </translations>
     <wikiDataId>Q3817</wikiDataId>
   </state>
@@ -24521,17 +24524,21 @@
       <hr>Battambang</hr>
       <fa>باتامبانگ</fa>
       <de>Battambang</de>
-      <es>Battambang</es>
+      <es>Battambang (ciudad)</es>
       <fr>Battambang</fr>
-      <ja>バッタンバン</ja>
+      <ja>バタンバン</ja>
       <it>Battambang</it>
       <zh-CN>马德望</zh-CN>
-      <tr>Battambang</tr>
-      <ru>Баттамбанг</ru>
-      <uk>Баттамбанг</uk>
-      <pl>Battambang</pl>
+      <tr>Battambang (şehir)</tr>
+      <ru>Баттамбанг (город)</ru>
+      <uk>Баттамбанг (місто)</uk>
+      <pl>Bătdâmbâng (miasto)</pl>
       <hi>बट्टमबैंग</hi>
-      <ar>باتامبانغ</ar>
+      <ar>باتامبانج</ar>
+      <bn>ব্যাটামবং</bn>
+      <id>Battambang</id>
+      <vi>Battambang (thành phố)</vi>
+      <zh>马德望</zh>
     </translations>
     <wikiDataId>Q810923</wikiDataId>
   </state>
@@ -24571,6 +24578,7 @@
       <pl>Kampong Cham</pl>
       <hi>कम्पोंग चाम</hi>
       <ar>كامبونج تشام</ar>
+      <vi>Kampong Cham (định hướng)</vi>
     </translations>
     <wikiDataId>Q142258</wikiDataId>
   </state>
@@ -24711,22 +24719,25 @@
       <br>Kampot</br>
       <ko>캄포트</ko>
       <pt-BR>Kampot</pt-BR>
-      <pt>Kampot</pt>
-      <nl>Kampot</nl>
+      <pt>Kampot (cidade)</pt>
+      <nl>Kampot (plaats)</nl>
       <hr>Kampot</hr>
       <fa>کامپوت</fa>
-      <de>Kampot</de>
-      <es>Kampot</es>
-      <fr>Kampot</fr>
+      <de>Kampot (Stadt)</de>
+      <es>Kampot (ciudad)</es>
+      <fr>Kampot (ville)</fr>
       <ja>カンポット</ja>
       <it>Kampot</it>
       <zh-CN>贡布</zh-CN>
-      <tr>Kampot</tr>
-      <ru>Кампот</ru>
-      <uk>Кампот</uk>
-      <pl>Kampot</pl>
+      <tr>Kampot (şehir)</tr>
+      <ru>Кампот (город)</ru>
+      <uk>Кампот (місто)</uk>
+      <pl>Kâmpôt</pl>
       <hi>कम्पोत</hi>
       <ar>كامبوت</ar>
+      <id>Kampot (kota)</id>
+      <vi>Kampot (thị xã)</vi>
+      <zh>贡布市</zh>
     </translations>
     <wikiDataId>Q748470</wikiDataId>
   </state>
@@ -24793,10 +24804,10 @@
       <nl>Kep</nl>
       <hr>Zadrži</hr>
       <fa>کپ</fa>
-      <de>Kep</de>
+      <de>KEP</de>
       <es>Mantener</es>
-      <fr>Garder</fr>
-      <ja>ケップ</ja>
+      <fr>KEP</fr>
+      <ja>KEP</ja>
       <it>Kep</it>
       <zh-CN>白马</zh-CN>
       <tr>Kep</tr>
@@ -24839,11 +24850,12 @@
       <it>Koh Kong</it>
       <zh-CN>戈公</zh-CN>
       <tr>Koh Kong</tr>
-      <ru>Кох Конг</ru>
+      <ru>Кахконг (значения)</ru>
       <uk>Кох Конг</uk>
       <pl>Koh Kong</pl>
       <hi>कोह काँग</hi>
       <ar>كوه كونغ</ar>
+      <vi>Koh Kong (định hướng)</vi>
     </translations>
     <wikiDataId>Q466000</wikiDataId>
   </state>
@@ -24904,24 +24916,27 @@
     <timezone>Asia/Phnom_Penh</timezone>
     <translations>
       <br>Mondulkiri</br>
-      <ko>몬둘키리</ko>
+      <ko>몬둘키리주</ko>
       <pt-BR>Mondulkiri</pt-BR>
-      <pt>Mondulkiri</pt>
+      <pt>Mondul Kiri</pt>
       <nl>Mondulkiri</nl>
       <hr>Mondulkiri</hr>
       <fa>موندولکری</fa>
       <de>Mondulkiri</de>
-      <es>Mondulkiri</es>
-      <fr>Mondulkiri</fr>
-      <ja>モンドルキリ</ja>
-      <it>Mondulkiri</it>
+      <es>Provincia de Mondol Kirí</es>
+      <fr>Province de Mondol Kiri</fr>
+      <ja>モンドルキリ州</ja>
+      <it>Provincia di Mondulkiri</it>
       <zh-CN>蒙多基里省</zh-CN>
       <tr>Mondulkiri</tr>
-      <ru>Мондулкири</ru>
+      <ru>Мондолькири</ru>
       <uk>Мондулкірі</uk>
-      <pl>Mondulkiri</pl>
-      <hi>मोंडुलकिरी</hi>
-      <ar>موندولكيري</ar>
+      <pl>Môndôl Kiri</pl>
+      <hi>मोन्दूलकिरी प्रान्त</hi>
+      <ar>محافظة موندولكيري</ar>
+      <id>Provinsi Mondulkiri</id>
+      <vi>Mondulkiri</vi>
+      <zh>蒙多基里省</zh>
     </translations>
     <wikiDataId>Q652830</wikiDataId>
   </state>
@@ -24943,24 +24958,27 @@
     <timezone>Asia/Phnom_Penh</timezone>
     <translations>
       <br>Oddar Meanchey</br>
-      <ko>오다르 민체이</ko>
+      <ko>오다르메안체이주</ko>
       <pt-BR>Oddar Meanchey</pt-BR>
-      <pt>Oddar Meanchey</pt>
-      <nl>Oddar Meanchey</nl>
+      <pt>Oddar Mean Cheay</pt>
+      <nl>Oddar Meancheay</nl>
       <hr>Oddar Meanchey</hr>
       <fa>اودار مینچی</fa>
       <de>Oddar Meanchey</de>
-      <es>Oddar Meanchey</es>
-      <fr>Oddar Meanchey</fr>
-      <ja>オダール・ミアンチェイ</ja>
-      <it>Oddar Meanchey</it>
+      <es>Provincia de Oddar Mean Chey</es>
+      <fr>Province d'Otdar Mean Cheay</fr>
+      <ja>ウドーミアンチェイ州</ja>
+      <it>Provincia di Oddar Meancheay</it>
       <zh-CN>奥多棉吉</zh-CN>
       <tr>Oddar Meanchey</tr>
-      <ru>Оддар Минчей</ru>
+      <ru>Оддармеантьей</ru>
       <uk>Оддар Мінчі</uk>
-      <pl>Oddar Meanchey</pl>
-      <hi>ओडार मीनची</hi>
-      <ar>أودار مينشي</ar>
+      <pl>Ŭddâr Méanchey</pl>
+      <hi>उत्दोर मियनचिय प्रान्त</hi>
+      <ar>محافظة أودار ميانتشي</ar>
+      <id>Provinsi Oddar Meanchey</id>
+      <vi>Oddar Meancheay</vi>
+      <zh>奥多棉吉省</zh>
     </translations>
     <wikiDataId>Q629538</wikiDataId>
   </state>
@@ -24982,24 +25000,27 @@
     <timezone>Asia/Phnom_Penh</timezone>
     <translations>
       <br>Pailin</br>
-      <ko>파일린</ko>
+      <ko>파일린주</ko>
       <pt-BR>Pailin</pt-BR>
       <pt>Pailin</pt>
       <nl>Pailin</nl>
       <hr>Pailin</hr>
       <fa>پیلین</fa>
-      <de>Pailin</de>
-      <es>Pailín</es>
-      <fr>Pailin</fr>
-      <ja>パイリン</ja>
+      <de>Pailin (Provinz)</de>
+      <es>Provincia de Pailín</es>
+      <fr>Province de Pailin</fr>
+      <ja>パイリン州</ja>
       <it>Pailin</it>
       <zh-CN>拜林</zh-CN>
       <tr>Pailin</tr>
       <ru>Пайлин</ru>
       <uk>Пайлін</uk>
-      <pl>Pailin</pl>
-      <hi>पैलिन</hi>
+      <pl>Pailĭn</pl>
+      <hi>पइलिन प्रान्त</hi>
       <ar>بايلين</ar>
+      <id>Provinsi Pailin</id>
+      <vi>Pailin</vi>
+      <zh>拜林省</zh>
     </translations>
     <wikiDataId>Q506646</wikiDataId>
   </state>
@@ -25033,12 +25054,16 @@
       <ja>プノンペン</ja>
       <it>Phnom Penh</it>
       <zh-CN>金边</zh-CN>
-      <tr>Phnom Penh</tr>
+      <tr>Punom Pen</tr>
       <ru>Пномпень</ru>
       <uk>Пномпень</uk>
       <pl>Phnom Penh</pl>
-      <hi>नोम पेन्ह</hi>
+      <hi>नामपेन्ह</hi>
       <ar>بنوم بنه</ar>
+      <bn>নমপেন</bn>
+      <id>Phnom Penh</id>
+      <vi>Phnôm Pênh</vi>
+      <zh>金边</zh>
     </translations>
     <wikiDataId>Q1850</wikiDataId>
   </state>
@@ -25060,24 +25085,28 @@
     <timezone>Asia/Phnom_Penh</timezone>
     <translations>
       <br>Preah Vihear</br>
-      <ko>프레아 비헤아르</ko>
+      <ko>프레아 비헤아르 사원</ko>
       <pt-BR>Preah Vihear</pt-BR>
-      <pt>Preah Vihear</pt>
-      <nl>Preah Vihear</nl>
+      <pt>Templo Hindu de Preah Vihear</pt>
+      <nl>Preah Vihear (tempel)</nl>
       <hr>Preah Vihear</hr>
       <fa>پریه ویهر</fa>
-      <de>Preah Vihear</de>
-      <es>Preah Vihear</es>
-      <fr>Preah Vihear</fr>
-      <ja>プレアヴィヒア</ja>
-      <it>Preah Vihear</it>
+      <de>Prasat Preah Vihear</de>
+      <es>Templo de Preah Vihear</es>
+      <fr>Temple de Preah Vihear</fr>
+      <ja>プレアヴィヒア寺院</ja>
+      <it>Tempio Preah Vihear</it>
       <zh-CN>柏威夏</zh-CN>
-      <tr>Preah Vihear</tr>
-      <ru>Преах Вихеар</ru>
-      <uk>Преах Віхеар</uk>
+      <tr>Preah Vihear Tapınağı</tr>
+      <ru>Прэахвихеа</ru>
+      <uk>Преахвіхеа</uk>
       <pl>Preah Vihear</pl>
       <hi>प्रीह विहियर</hi>
-      <ar>برياه فيهير</ar>
+      <ar>معبد برياه فيهير</ar>
+      <bn>প্রিয় বিহার মন্দির</bn>
+      <id>Candi Preah Vihear</id>
+      <vi>Đền Preah Vihear</vi>
+      <zh>柏威夏寺</zh>
     </translations>
     <wikiDataId>Q502151</wikiDataId>
   </state>
@@ -25107,7 +25136,7 @@
       <fa>طعمه ونگ</fa>
       <de>Prey Veng</de>
       <es>Presa Veng</es>
-      <fr>Proie vengée</fr>
+      <fr>Prey Veng</fr>
       <ja>プレイベン</ja>
       <it>Preda Veng</it>
       <zh-CN>波萝勉</zh-CN>
@@ -25141,21 +25170,22 @@
       <ko>푸르사트</ko>
       <pt-BR>Pursat</pt-BR>
       <pt>Pursat</pt>
-      <nl>Pursat</nl>
+      <nl>Pouthisat</nl>
       <hr>Pursat</hr>
       <fa>پورسات</fa>
-      <de>Pursat</de>
+      <de>Pursat (Stadt)</de>
       <es>Pursat</es>
-      <fr>Pournat</fr>
+      <fr>Pouthisat (ville)</fr>
       <ja>プルサット</ja>
       <it>Pursat</it>
       <zh-CN>菩萨省</zh-CN>
       <tr>Pursat</tr>
-      <ru>Пурсат</ru>
+      <ru>Поусат (город)</ru>
       <uk>Пурсат</uk>
-      <pl>Pursat</pl>
+      <pl>Poŭrsăt</pl>
       <hi>पुरसैट</hi>
       <ar>بورسات</ar>
+      <zh>菩萨市</zh>
     </translations>
     <wikiDataId>Q834464</wikiDataId>
   </state>
@@ -25177,24 +25207,27 @@
     <timezone>Asia/Phnom_Penh</timezone>
     <translations>
       <br>Ratanakiri</br>
-      <ko>라타나키리</ko>
+      <ko>라타나키리주</ko>
       <pt-BR>Ratanakiri</pt-BR>
       <pt>Ratanakiri</pt>
       <nl>Ratanakiri</nl>
       <hr>Ratanakiri</hr>
       <fa>راتاناکیری</fa>
       <de>Ratanakiri</de>
-      <es>Ratanakiri</es>
-      <fr>Ratanakiri</fr>
-      <ja>ラタナキリ</ja>
-      <it>Ratanakiri</it>
+      <es>Provincia de Ratanak Kirí</es>
+      <fr>Province de Rotanah Kiri</fr>
+      <ja>ラタナキリ州</ja>
+      <it>Provincia di Ratanakiri</it>
       <zh-CN>腊塔纳基里</zh-CN>
       <tr>Ratanakiri</tr>
       <ru>Ратанакири</ru>
       <uk>Ратанакірі</uk>
-      <pl>Ratanakiri</pl>
-      <hi>Ratanakiri</hi>
-      <ar>راتاناكيري</ar>
+      <pl>Rôttanak Kiri</pl>
+      <hi>रतनाकिरी प्रान्त</hi>
+      <ar>محافظة راتاناكيري</ar>
+      <id>Provinsi Ratanakiri</id>
+      <vi>Ratanakiri</vi>
+      <zh>腊塔纳基里省</zh>
     </translations>
     <wikiDataId>Q747846</wikiDataId>
   </state>
@@ -25216,24 +25249,28 @@
     <timezone>Asia/Phnom_Penh</timezone>
     <translations>
       <br>Siem Reap</br>
-      <ko>씨엠립</ko>
+      <ko>시엠립</ko>
       <pt-BR>Siem Reap</pt-BR>
-      <pt>Siem Reap</pt>
-      <nl>Siem Reap</nl>
+      <pt>Siem Reap (cidade)</pt>
+      <nl>Siem Reap (stad)</nl>
       <hr>Siem Reap</hr>
       <fa>سیم ریپ</fa>
-      <de>Siem Reap</de>
-      <es>Siem Reap</es>
+      <de>Siem Reap (Stadt)</de>
+      <es>Siem Riep (ciudad)</es>
       <fr>Siem Reap</fr>
       <ja>シェムリアップ</ja>
       <it>Siem Reap</it>
       <zh-CN>暹粒</zh-CN>
-      <tr>Siem Reap</tr>
-      <ru>Сиемреап</ru>
-      <uk>Сієм Ріп</uk>
-      <pl>Siem Reap</pl>
-      <hi>सिएम रीप</hi>
+      <tr>Siem Reap (şehir)</tr>
+      <ru>Сиемреап (город)</ru>
+      <uk>Сіємреап</uk>
+      <pl>Siĕm Réab</pl>
+      <hi>सीम रीप</hi>
       <ar>سيام ريب</ar>
+      <bn>সিম রিপ</bn>
+      <id>Siem Reap</id>
+      <vi>Siem Reap</vi>
+      <zh>暹粒</zh>
     </translations>
     <wikiDataId>Q652818</wikiDataId>
   </state>
@@ -25261,18 +25298,21 @@
       <nl>Sihanoukville</nl>
       <hr>Sihanoukville</hr>
       <fa>سیهانوکویل</fa>
-      <de>Sihanoukville</de>
+      <de>Sihanoukville (Stadt)</de>
       <es>Sihanoukville</es>
       <fr>Sihanoukville</fr>
       <ja>シアヌークビル</ja>
       <it>Sihanoukville</it>
       <zh-CN>西哈努克城</zh-CN>
-      <tr>Sihanoukville</tr>
+      <tr>Sihanoukville (şehir)</tr>
       <ru>Сиануквиль</ru>
       <uk>Сіануквіль</uk>
-      <pl>Sihanoukville</pl>
+      <pl>Preăh Sihanŭk</pl>
       <hi>Sihanoukville</hi>
-      <ar>سيهانوكفيل</ar>
+      <ar>سيهانوكفيل (مدينة)</ar>
+      <id>Sihanoukville (kota)</id>
+      <vi>Sihanoukville (thành phố)</vi>
+      <zh>西哈努克市</zh>
     </translations>
     <wikiDataId>Q220966</wikiDataId>
   </state>
@@ -25294,24 +25334,26 @@
     <timezone>Asia/Phnom_Penh</timezone>
     <translations>
       <br>Stung Treng</br>
-      <ko>스퉁 트렝</ko>
+      <ko>스퉁트렝</ko>
       <pt-BR>Stung Treng</pt-BR>
-      <pt>Stung Treng</pt>
-      <nl>Stung Treng</nl>
+      <pt>Stung Treng (cidade)</pt>
+      <nl>Stoeng Treng</nl>
       <hr>Ubodeni Treng</hr>
       <fa>استونگ ترنگ</fa>
-      <de>Stung Treng</de>
+      <de>Stung Treng (Stadt)</de>
       <es>Stung Treng</es>
-      <fr>Stung Treng</fr>
+      <fr>Stoeng Treng</fr>
       <ja>ストゥントレン</ja>
       <it>Stung Treng</it>
       <zh-CN>上丁省</zh-CN>
       <tr>Sokulmuş Treng</tr>
-      <ru>Стунг-Тренг</ru>
+      <ru>Стынгтраенг (город)</ru>
       <uk>Стунг Тренг</uk>
-      <pl>Użądlony Treng</pl>
+      <pl>Stœ̆ng Trêng</pl>
       <hi>स्टंग ट्रेंग</hi>
       <ar>ستونغ ترينغ</ar>
+      <vi>Stung Treng</vi>
+      <zh>上丁市</zh>
     </translations>
     <wikiDataId>Q837889</wikiDataId>
   </state>
@@ -25351,6 +25393,7 @@
       <pl>Svay Rieng</pl>
       <hi>स्वे रींग</hi>
       <ar>سفاي رينغ</ar>
+      <vi>Svay Rieng</vi>
     </translations>
     <wikiDataId>Q751864</wikiDataId>
   </state>
@@ -25372,7 +25415,7 @@
     <timezone>Asia/Phnom_Penh</timezone>
     <translations>
       <br>Takeo</br>
-      <ko>타케오</ko>
+      <ko>다케오</ko>
       <pt-BR>Takeo</pt-BR>
       <pt>Takeo</pt>
       <nl>Takeo</nl>
@@ -25382,7 +25425,7 @@
       <es>Takeo</es>
       <fr>Takeo</fr>
       <ja>武雄</ja>
-      <it>Takeo</it>
+      <it>Takeo (disambigua)</it>
       <zh-CN>武雄</zh-CN>
       <tr>Takeo</tr>
       <ru>Такео</ru>
@@ -25390,8 +25433,32 @@
       <pl>Takeo</pl>
       <hi>ताकेओ</hi>
       <ar>تاكيو</ar>
+      <vi>Takeo</vi>
     </translations>
     <wikiDataId>Q613345</wikiDataId>
+  </state>
+  <state>
+    <id>5537</id>
+    <name>Tboung Khmum</name>
+    <country_id>37</country_id>
+    <country_code>KH</country_code>
+    <country_name>Cambodia</country_name>
+    <iso2>25</iso2>
+    <iso3166_2>KH-25</iso3166_2>
+    <fips_code></fips_code>
+    <type>province</type>
+    <level></level>
+    <parent_id></parent_id>
+    <native>ត្បូងឃ្មុំ</native>
+    <latitude>11.98333333</latitude>
+    <longitude>105.45000000</longitude>
+    <timezone>Asia/Phnom_Penh</timezone>
+    <translations>
+      <es>Tboung Khmum</es>
+      <vi>Tbuong Kmoum</vi>
+      <zh>特本克蒙县</zh>
+    </translations>
+    <wikiDataId>Q15623578</wikiDataId>
   </state>
   <state>
     <id>2663</id>
